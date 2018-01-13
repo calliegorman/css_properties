@@ -1,0 +1,80 @@
+body {
+  background-color: #057477;
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 200%;
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.1em;
+}
+
+p {
+  font-size: 100%;
+  line-height: 1.3em;
+}
+
+figcaption {
+  font-size: .7em;
+}
+a:link {
+  text-decoration: none;
+  color: #ffffff
+}
+
+a:hover {
+  color: #aafcff;
+}
